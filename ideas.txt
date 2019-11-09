@@ -1,0 +1,4 @@
+adjust the helper.py file, add on disk caching to as many functions as possible.
+  - get regions, get AD's
+  - more complicated ones (compute, block storage) ... not sure how to do this yet
+
